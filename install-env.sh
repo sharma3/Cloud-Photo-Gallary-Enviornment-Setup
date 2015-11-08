@@ -10,6 +10,7 @@ mv ./ITMO-544-A20344475-Application-Setup/images /var/www/html/images
 mv ./ITMO-544-A20344475-Application-Setup/img /var/www/html/img
 mv ./ITMO-544-A20344475-Application-Setup/css /var/www/html/css
 mv ./ITMO-544-A20344475-Application-Setup/js /var/www/html/js
+mv ./ITMO-544-A20344475-Application-Setup/fonts /var/www/html/fonts
 mv ./ITMO-544-A20344475-Application-Setup/index.html /var/www/html
 mv ./ITMO-544-A20344475-Application-Setup/Page2.html /var/www/html
 mv ./ITMO-544-A20344475-Application-Setup/*.php /var/www/html
