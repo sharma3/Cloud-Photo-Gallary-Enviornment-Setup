@@ -2,7 +2,7 @@
 
 
 sudo apt-get update -y
-sudo apt-get install -y apache2 git php5 php5-curl mysql-client curl php5-mysql
+sudo apt-get install -y apache2 git php5 php5-curl mysql-client curl php5-mysql php5-imagick
 
 git clone https://github.com/sharma3/ITMO-544-A20344475-Application-Setup.git
 
